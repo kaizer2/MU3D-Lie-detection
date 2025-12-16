@@ -1,0 +1,2 @@
+https://dagshub.com/datasets/cmu-mosi/
+https://www.kaggle.com/datasets/mathurinache/cmu-mosi
